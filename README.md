@@ -1,7 +1,7 @@
 # yeastpolariz_particlesim
 
 ## Overview
-Contains data and code necessary to render figures from the main text in Pablo M, Ramirez SA, Elston TC. <i>Particle-based Simulations of Polarity Establishment Reveal Stochastic Promotion of Turing Pattern Formation</i>. PLoS Comp Bio. Accepted, <b>2018</b>
+Contains data and code necessary to render figures from the main text in Pablo M, Ramirez SA, Elston TC (2018) [Particle-based Simulations of Polarity Establishment Reveal Stochastic Promotion of Turing Pattern Formation](https://doi.org/10.1371/journal.pcbi.1006016). PLoS Comput Biol. 14(3): e1006016.
 
 
 ## Compatibility
